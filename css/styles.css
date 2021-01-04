@@ -1,0 +1,37 @@
+body {
+  /* background-color: blue; */
+  background: url(../img/ocean.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.list {
+  color: white;
+}
+
+.links {
+  color:red;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+h2 {
+  color: red;
+}
+
+.pp {
+  color: green;
+}
+
+p {
+  font-size: 22px;
+}
+
+a {
+  color: black;
+}
