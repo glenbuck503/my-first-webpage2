@@ -11,6 +11,7 @@ body {
 
 .links {
   color:white;
+  
 }
 
 img {
@@ -22,6 +23,7 @@ img {
 
 h2 {
   color: white;
+  
 }
 
 .pp {
@@ -30,6 +32,7 @@ h2 {
 
 p {
   font-size: 22px;
+  font-family: sans-serif;
 }
 
 a {
